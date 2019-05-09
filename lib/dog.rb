@@ -13,7 +13,7 @@ class Dog
   end
   
   def self.all
-   @@all
+   @@all.name
   end
  
   # def self.new
