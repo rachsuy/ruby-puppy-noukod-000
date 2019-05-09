@@ -14,7 +14,7 @@ class Dog
   
   def self.all
    @@all.each do |a|
-    puts "#{a}\n"
+    puts "#{a}.join("\n")
  end
   end
  
