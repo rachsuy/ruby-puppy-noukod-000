@@ -13,7 +13,9 @@ class Dog
   end
   
   def all
-   puts "#{@@all}"
+   @@all.each |a|
+    puts a
+ end
   end
  
   # def self.new
