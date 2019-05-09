@@ -13,7 +13,7 @@ class Dog
   end
   
   def all
-    @@all
+   puts @@all
   end
  
   # def self.new
