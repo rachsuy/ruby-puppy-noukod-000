@@ -7,15 +7,15 @@ class Dog
    
   end
   
-  def self.clear_all
+  def .clear_all
   end
   
-   def self.all
+   def .all
      @@all.each do |name|
        puts #{name}
      end
   end
  
-  def self.new
+  def .new
   end  
 end
