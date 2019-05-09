@@ -13,9 +13,7 @@ class Dog
   end
   
   def self.all
-   @@all.each do |a|
-    puts a
- end
+   @@all
   end
  
   # def self.new
