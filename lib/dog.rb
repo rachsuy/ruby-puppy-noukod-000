@@ -13,7 +13,7 @@ class Dog
   end
   
   def all
-   @@all.each |a|
+   @@all.each do |a|
     puts a
  end
   end
