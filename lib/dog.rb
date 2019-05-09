@@ -3,8 +3,8 @@ class Dog
 
      # @@DOG = []
        
-  def initialize
-    @@all = []
+  de@@all = []f initialize
+    
     @all << self
    
   end
