@@ -13,7 +13,7 @@ class Dog
   end
   
   def all
-   puts @@all.name
+   puts "#{@@all}"
   end
  
   # def self.new
