@@ -11,11 +11,11 @@ class Dog
   # def self.clear_all
   # end
   
-  # def self.all
-  #   @@all.each do |name|
-  #     puts #{name}
-  #   end
-  # end
+  def self.all
+    @@all.each do |name|
+      puts #{name}
+    end
+  end
  
   # def self.new
   # end
